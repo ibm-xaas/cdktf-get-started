@@ -1,6 +1,6 @@
 # if you want to try the docker as your development env:
 # Prerequisite if you want to run TF or CLI:
-#     export IBMCLOUD_API_KEY=<YOURS>
+#     export IBMCLOUD_API_KEY=<YOURS>   # pragma: allowlist secret
 # Run:
 #   docker-compose run cdktf-get-started
 version: "3.3"
