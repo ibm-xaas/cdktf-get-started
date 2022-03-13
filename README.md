@@ -21,3 +21,6 @@ cdktf synth
 cdktf deploy --auto-approve
 cdktf destroy --auto-approve
 ```
+<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+
+<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
