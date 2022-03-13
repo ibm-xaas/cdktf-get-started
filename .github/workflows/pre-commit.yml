@@ -12,4 +12,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
       - uses: pre-commit/action@v2.0.3
-      - run: curl -sL https://github.com/tfsec/tfsec/releases/download/v1.8.0/tfsec-linux-amd64 > /usr/bin/tfsec
+      - run: go install github.com/aquasecurity/tfsec/cmd/tfsec@latest
