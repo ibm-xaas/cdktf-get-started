@@ -1,5 +1,4 @@
-[![pre-commit](https://github.com/ibm-xaas/cdktf-get-started/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/ibm-xaas/cdktf-get-started/actions/workflows/pre-commit.yml)
-
+[![pre-commit](https://github.com/ibm-xaas/cdktf-get-started/actions/workflows/pre-commit.yml/badge.svg?branch=main)](https://github.com/ibm-xaas/cdktf-get-started/actions/workflows/pre-commit.yml)
 # cdktf-get-started
 cdktf-get-started
 
